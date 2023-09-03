@@ -11,6 +11,5 @@ Note that this repo serves as a quick guidance/cheatsheet for y'all to maneuver 
 - [**REMOTE**](/remote/)
 - [**tmux**](/tmux/)
 - [**vrpn**](/vrpn/)
+- [**docker**](/docker/)
 
-## Remark
-For students from AIRO lab should have been hearing ```DOCKER``` quite a lot, please refer to [here](https://github.com/HKPolyU-UAV/docker_practice) to get yourself familiar with it, as it is not covered here.
