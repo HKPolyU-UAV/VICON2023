@@ -5,6 +5,7 @@ Welcome to ```FJ005``` flying arena for your experiments! We all know that exper
 Note that this repo serves as a quick guidance/cheatsheet for y'all to maneuver through computers, connections and all that sorta stuff, yet it is not meant to be a comprehensive explaination on how things work. So! Please do make sure that you have the fundementals before you step into the arena.
 
 ## Quick link
+- [**Git commands**](/git/README.md)
 - [**Multi_Machine**](/multi/README.md)
 - [**PX4**](/PX4/README.md)
 - [**REMOTE**](/remote/README.md)
