@@ -5,6 +5,7 @@ Welcome to ```FJ005``` flying arena for your experiments! We all know that exper
 Note that this repo serves as a quick guidance/cheatsheet for y'all to maneuver through computers, connections and all that sorta stuff, yet it is not meant to be a comprehensive explaination on how things work. So! Please do make sure that you have the fundementals before you step into the arena.
 
 ## Quick link
+- [**guidelines**](/guidelines/) for general guidelines
 - [**Git commands**](/git/)
 - [**Multi_Machine**](/multi/)
 - [**PX4**](/PX4/)
@@ -12,7 +13,7 @@ Note that this repo serves as a quick guidance/cheatsheet for y'all to maneuver 
 - [**tmux**](/tmux/)
 - [**vrpn**](/vrpn/)
 - [**docker**](/docker/)
-- [**guidelines**](/guidelines/)
+
 
 ## Maintainer
 If you got any problem, contact me directly through [pattylo](https://github.com/pattylo) @ AIRO-LAB @ RCUAS, HKPolyU.
