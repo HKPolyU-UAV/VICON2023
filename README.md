@@ -12,4 +12,7 @@ Note that this repo serves as a quick guidance/cheatsheet for y'all to maneuver 
 - [**tmux**](/tmux/)
 - [**vrpn**](/vrpn/)
 - [**docker**](/docker/)
+- [**guidelines**](/guidelines/)
 
+## Maintainer
+If you got any problem, contact me directly through [pattylo](https://github.com/pattylo) @ AIRO-LAB @ RCUAS, HKPolyU.
