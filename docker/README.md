@@ -10,6 +10,8 @@ docker image ls # list all image
 docker start {container_name} # start container
 docker attach {container_name} # attach to a container, namely, get inside the container
 docker exec -it {container_name} /bin/bash # attach to the same container without echoing the same commandline
+ctrl + p then ctrl + q to detach from docker
+exit # exit container
 exit # exit container
 
 docker commit {container_name} {new_image_name} 
