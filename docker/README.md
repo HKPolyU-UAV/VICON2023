@@ -24,6 +24,9 @@ docker rmi {image_name}
 docker tag {container_name} {username}/{remote_image_name}
 docker push {username}/{remote_image_name}
 # basically allow you to publish your image
+
+echo -e "0000\n0000" | passwd root
+# change docker passcode
 ```
 
 
