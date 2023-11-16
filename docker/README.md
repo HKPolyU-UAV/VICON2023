@@ -27,6 +27,9 @@ docker push {username}/{remote_image_name}
 
 echo -e "0000\n0000" | passwd root
 # change docker passcode
+
+docker system prune --all
+# prune everything to free up space
 ```
 
 
